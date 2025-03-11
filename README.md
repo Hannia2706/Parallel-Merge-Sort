@@ -12,3 +12,6 @@ Se presenta el proyecto final para la materia de cómputo de alto rendimiento pe
 
 # Introducción 
 El método de Merge Sort es un algoritmo de ordenación que se basa en la estrategia de dividir y vencer, el cual consiste en reducir una lista en varias sublistas hasta que cada una de ellas tiene un solo elemento para posteriormente hacer la mezcla de esas sublistas para formar una lista ordenada.
+
+![image](https://github.com/user-attachments/assets/0d9d97f8-b721-4da2-b6a1-4971de9c17d0)
+
