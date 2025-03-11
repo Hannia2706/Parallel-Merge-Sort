@@ -15,3 +15,12 @@ El método de Merge Sort es un algoritmo de ordenación que se basa en la estrat
 
 ![image](https://github.com/user-attachments/assets/0d9d97f8-b721-4da2-b6a1-4971de9c17d0)
 
+# Objetivo general 
+* Implementar una paralelización del algoritmo Merge Sort en C++ con MPI para mejorar su rendimiendo 
+
+# Objetivos particulares 
+* Implementar el algoritmo de Merge sort
+* Paralelización del algoritmo
+* Hacer una comparación entre el algoritmo con y sin paralelización 
+
+
